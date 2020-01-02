@@ -1,6 +1,6 @@
 DateRangeParser (fork ukrainian support)
 ===============
-[![Build Status](https://travis-ci.org/robintw/daterangeparser.svg?branch=master)](https://travis-ci.org/robintw/daterangeparser)
+[![Build Status](https://travis-ci.org/ph20/daterangeparser.svg?branch=develop/ukrainian_support)](https://travis-ci.org/ph20/daterangeparser)
 
 This is a Python module which allows you easily parse human-style date ranges such as "14-17 March" or
 "Wed 19th - Thurs 23rd Jan 2015".
