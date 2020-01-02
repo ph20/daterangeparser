@@ -1,4 +1,4 @@
-DateRangeParser
+DateRangeParser (fork ukrainian support)
 ===============
 [![Build Status](https://travis-ci.org/robintw/daterangeparser.svg?branch=master)](https://travis-ci.org/robintw/daterangeparser)
 
