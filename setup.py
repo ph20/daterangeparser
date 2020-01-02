@@ -29,7 +29,7 @@ setup(
     license = "LGPL",
     test_suite = "nose.collector",
     tests_require=['nose'],
-    url = "https://github.com/robintw/daterangeparser",
+    url = "https://github.com/ph20/daterangeparser",
     long_description="""DateRangeParser is a Python module which makes it easy to parse date ranges specified in
     a human-style string. For example, it can parse strings like:
 
