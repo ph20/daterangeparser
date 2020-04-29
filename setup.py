@@ -21,10 +21,10 @@ from setuptools import setup
 
 
 setup(
-    name="DateRangeParserUK",  # UK mean ukrainian support fork
+    name="daterangeparser-uk",  # UK mean ukrainian support fork
     packages=['daterangeparser'],
     install_requires=['pyparsing'],
-    version="1.3.2.dev3",
+    version="1.3.2.dev4",
     author="Robin Wilson",
     author_email="robin@rtwilson.com",
     description=("""Module to parse human-style date ranges (eg. 15th-19th March 2011) to datetimes"""),
