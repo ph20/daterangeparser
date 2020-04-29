@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+
 # daterangeparser - a Python library to parse string date ranges
 # Copyright (C) 2013  Robin Wilson
 
@@ -14,20 +17,19 @@
 # You should have received a copy of the GNU Lesser General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import os
 from setuptools import setup
 
 
 setup(
-    name = "DateRangeParserUK",  # UK mean ukrainian support fork
-    packages = ['daterangeparser'],
-    install_requires = ['pyparsing'],
-    version = "1.3.2.dev3",
-    author = "Robin Wilson",
-    author_email = "robin@rtwilson.com",
-    description = ("""Module to parse human-style date ranges (eg. 15th-19th March 2011) to datetimes"""),
-    license = "LGPL",
-    test_suite = "nose.collector",
+    name="DateRangeParserUK",  # UK mean ukrainian support fork
+    packages=['daterangeparser'],
+    install_requires=['pyparsing'],
+    version="1.3.2.dev3",
+    author="Robin Wilson",
+    author_email="robin@rtwilson.com",
+    description=("""Module to parse human-style date ranges (eg. 15th-19th March 2011) to datetimes"""),
+    license="LGPL",
+    test_suite="nose.collector",
     tests_require=['nose'],
     url = "https://github.com/ph20/daterangeparser",
     long_description="""DateRangeParser is a Python module which makes it easy to parse date ranges specified in
