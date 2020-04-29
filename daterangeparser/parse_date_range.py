@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+
 # daterangeparser - a Python library to parse string date ranges
 # Copyright (C) 2013  Robin Wilson
 

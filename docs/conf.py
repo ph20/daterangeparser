@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+
 #
 # DateRangeParser documentation build configuration file, created by
 # sphinx-quickstart on Sat Apr 28 12:45:18 2012.
